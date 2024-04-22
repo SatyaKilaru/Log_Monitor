@@ -20,18 +20,22 @@ This Python script provides a versatile solution for monitoring and analyzing lo
 4. The script will monitor the log file from the provided GitHub link and save the results to `log_monitor.log`.
 
 ### Example:
+## Running the Script
+
+To execute the script, use the following command:
+
 ```bash
-pip install requests
+python log_monitor.py
 ```
 
 If you are using a specific Python version or if you have multiple Python versions installed, you might need to specify the Python version in the command, like this:
 ```bash
 pip3 install requests
-
+```
 
 ```python
 python Log_File_Monitoring_Code.py
-
+```
 ### Dependencies:
 
 - Python 3.x
