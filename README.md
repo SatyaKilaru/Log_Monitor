@@ -22,10 +22,8 @@ This Python script provides a versatile solution for monitoring and analyzing lo
 ### Example:
 ## Running the Script
 
-To execute the script, use the following command:
-
 ```bash
-python log_monitor.py
+pip install requests
 ```
 
 If you are using a specific Python version or if you have multiple Python versions installed, you might need to specify the Python version in the command, like this:
