@@ -42,8 +42,7 @@ python Log_File_Monitoring_Code.py
 3. Run the script by executing `python Log_File_Monitoring_Code.py`.
 4. The script will monitor the log file from the provided GitHub link and save the results to `log_monitor.log`.
 
-**Brief is as follows:**
-To use and test the script, follow these steps:
+**Brief is as follows to use and test the script:**
 
 1. **Ensure Python 3.x is installed**: The script is compatible with Python 3.x. Make sure you have Python 3.x installed on your system.
 
