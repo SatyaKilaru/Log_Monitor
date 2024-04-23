@@ -12,12 +12,6 @@ This Python script provides a versatile solution for monitoring and analyzing lo
   
 - **Log Analysis:** Users can define custom keywords or patterns to detect specific events such as error messages or HTTP status codes. The script efficiently identifies relevant log entries using regular expressions and generates insightful summary reports.
 
-### Usage:
-
-1. Clone the repository or download the `Log_File_Monitoring_Code.py` file.
-2. Ensure you have Python installed on your system.
-3. Run the script by executing `python Log_File_Monitoring_Code.py`.
-4. The script will monitor the log file from the provided GitHub link and save the results to `log_monitor.log`.
 
 ### Example:
 ## Running the Script
@@ -39,12 +33,16 @@ python Log_File_Monitoring_Code.py
 - Python 3.x
 - Requests library
 
-# Fishy.log Monitoring Script
-
-This repository contains a Python script designed to monitor and extract specific information from a log file. The script is compatible with Python 3.x and can be used to monitor log files and extract specific information from them.
 
 ## Usage
 
+
+1. Clone the repository or download the `Log_File_Monitoring_Code.py` file.
+2. Ensure you have Python installed on your system.
+3. Run the script by executing `python Log_File_Monitoring_Code.py`.
+4. The script will monitor the log file from the provided GitHub link and save the results to `log_monitor.log`.
+
+**Brief is as follows:**
 To use and test the script, follow these steps:
 
 1. **Ensure Python 3.x is installed**: The script is compatible with Python 3.x. Make sure you have Python 3.x installed on your system.
